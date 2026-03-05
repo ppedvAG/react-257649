@@ -1,0 +1,16 @@
+.cssTitle {
+  color: darkgreen;
+}
+
+.cssText {
+  font-weight: bold;
+}
+
+.cssBtn {
+  padding: 6px;
+  border: 1px solid black;
+}
+
+.cssBtn:hover {
+  background: gold;
+}

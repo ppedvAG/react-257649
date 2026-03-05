@@ -1,0 +1,16 @@
+.moduleTitle {
+  color: darkred;
+}
+
+.moduleText {
+  font-weight: bold;
+}
+
+.moduleBtn {
+  padding: 6px;
+  border: 1px solid black;
+}
+
+.moduleBtn:hover {
+  background: gold;
+}
